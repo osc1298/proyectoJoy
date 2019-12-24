@@ -1,4 +1,4 @@
-<div class="container mt-5">
+<div class="container mt-5 bg-light">
   <div class="col-sm-12 mb-2 text-center">
   <h2>¿Para quien deseas Nuestros Productos?</h2>
 </div>
